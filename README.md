@@ -1,2 +1,1 @@
-# sertifikat
-yangiliklar
+# course_auto_certificate_getter
